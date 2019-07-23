@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077751127751",
+    "firebase_url": "https://soongtreaming1.firebaseio.com",
+    "project_id": "soongtreaming1",
+    "storage_bucket": "soongtreaming1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077751127751:android:c40fbe0b757a47d8",
+        "android_client_info": {
+          "package_name": "com.example.soongtreaming_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077751127751-vbsp59n4thhcav7uo26hihcs0j1bk1jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soongtreaming_1",
+            "certificate_hash": "f10382b4bc81c9ffdddd1da8d43fbfcbd0fef0f8"
+          }
+        },
+        {
+          "client_id": "1077751127751-vt028njfavafreabe7he0kn5s4kpulj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6s-72WP5_pC5pxXu5PB6ihubJ_Vv73O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077751127751-vt028njfavafreabe7he0kn5s4kpulj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
